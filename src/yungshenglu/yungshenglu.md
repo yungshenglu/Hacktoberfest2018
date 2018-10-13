@@ -33,12 +33,8 @@ Networking researcher, studies on P4 currently. Node.js player, Qt application/g
 
 ## Side projects
 
-* docoGen: Base on LaTeX and Node.js to build your own fancy paper work. 
+* docoGen: Base on LaTeX and Node.js to build your own fancy paper work.
 * papoGen: Use Sass/CSS + Pug + Node.js to generate beautiful static website.
-* local-google-translator:  Self-used translator, a good tool with reading paper.
-* AngryThing: Clone of Angrybird, TA demo for final project of 2016 course. 
-* LifeGamer - Render server: Base on Node.js and Pixi.js to build the render engine for Game platform.
-* p4-researching: P4 learning and experiment materials.  Also make some tutorials/training courses of P4.
 
 --- 
 
