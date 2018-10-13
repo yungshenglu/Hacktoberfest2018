@@ -42,12 +42,11 @@ Graduated student, studies on NCKU.
  ̇Intelligent Algorithm and Machine Learning
  ̇Test Pressure sensor, Generate Walking Pattern and Mechanism Design
 * Automatic Control Experiment Teaching Assistant, Department of Electrical Engineering, NCKU
- ̇MATLAB, LEGO and BLDC 
-Independent Study, Networked Robotic Systems
+ ̇MATLAB, LEGO and BLDC Independent Study, Networked Robotic Systems
+
 --- 
 
 ## Programming Skills
-
 * Programming: C++, https://youtu.be/ZKnQSHhjgYE
 * MATLAB, https://youtu.be/OdhYI33e_Ko
 * Python, https://youtu.be/dXplieHNtaI
