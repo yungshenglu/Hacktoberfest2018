@@ -14,7 +14,7 @@ Opensouce promoter and GNOME.Asia Member. Love to share the opebsource spirit.
 
 ## Education
 
-* Bachelor of Computer Science, National Cheng Kung University; GPA: 3.77; `Sep. 2013 current`
+* Bachelor of Computer Science, National Cheng Kung University; `Sep. 2013 current`
 
 ---
 
