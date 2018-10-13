@@ -1,7 +1,5 @@
 # nienzu
 
-![]()
-
 Opensouce promoter and GNOME.Asia Member. Love to share the opebsource spirit.
 
 ---
