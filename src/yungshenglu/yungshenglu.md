@@ -1,4 +1,4 @@
-# kevinbird61
+# yungshenglu
 
 ![](https://i.imgur.com/rCBQYfw.jpg)
 
@@ -7,25 +7,27 @@ Networking researcher, studies on P4 currently. Node.js player, Qt application/g
 ---
 
 ## Some Intro
-* [Personal website](https://kevinbird61.github.io/Intro/)
-* Email: kevinbird61@gmail.com
-* GitHub: @kevinbird61
+* [Personal website](https://yungshenglu.github.io)
+* Email: yungshenglu1994@gmail.com
+* GitHub: @yungshenglu
 
 ---
 
 ## Education
 
 * Bachelor of Computer Science, National Cheng Kung University; GPA: 3.77; `Sep. 2013 - Jul. 2017`
-* Master of Computer Science, National Cheng Kung University; `Sep. 2017 - Current`
+* Master of Networks Engineering, National Chiao Tung University; `Sep. 2017 - Current`
 
 ---
 
 ## Experience
 
 * Research Project - `P4 (programming protocol-independent packet processors) researcher`
-* EFACANI Tech. - `Backend Engineer`
-* National Cheng Kung University - Computer assistant
-* Natinal Cheng Kung University - Teacher assistant of C++ program design
+* Volunteer - DigitalOcean.Hsinchu
+* Support Staff - COSCUP 2018
+* Speaker - ModernWeb 2018
+* Speaker - DigitalOcean.Hsinchu Meetup (JUL 2018 / OCT 2018)
+* Natinal Chiao Tung University - Teacher assistant of Introduction to Computer Networking
 
 ---
 
