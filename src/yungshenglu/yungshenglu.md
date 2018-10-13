@@ -1,8 +1,6 @@
 # yungshenglu
 
-![](https://i.imgur.com/rCBQYfw.jpg)
-
-Networking researcher, studies on P4 currently. Node.js player, Qt application/gaming maker, founder of [@toolbuddy](https://github.com/toolbuddy).
+Graduated student and networking researcher, studies on P4 currently.
 
 ---
 
@@ -15,7 +13,7 @@ Networking researcher, studies on P4 currently. Node.js player, Qt application/g
 
 ## Education
 
-* Bachelor of Computer Science, National Cheng Kung University; GPA: 3.77; `Sep. 2013 - Jul. 2017`
+* Bachelor of Computer Science, National Cheng Kung University; `Sep. 2013 - Jul. 2017`
 * Master of Networks Engineering, National Chiao Tung University; `Sep. 2017 - Current`
 
 ---
