@@ -9,7 +9,7 @@ Networking researcher, studies on P4 currently. Node.js player, Qt application/g
 ## Some Intro
 * [Personal website](https://kevinbird61.github.io/Intro/)
 * Email: kevinbird61@gmail.com
-* Github: @kevinbird61
+* GitHub: @kevinbird61
 
 ---
 
@@ -31,8 +31,8 @@ Networking researcher, studies on P4 currently. Node.js player, Qt application/g
 
 ## Side projects
 
-* DocoGen: Base on LaTeX and Node.js to build your own fancy paper work. 
-* PapoGen: Use Sass/CSS + Pug + Node.js to generate beautiful static website.
+* docoGen: Base on LaTeX and Node.js to build your own fancy paper work. 
+* papoGen: Use Sass/CSS + Pug + Node.js to generate beautiful static website.
 * local-google-translator:  Self-used translator, a good tool with reading paper.
 * AngryThing: Clone of Angrybird, TA demo for final project of 2016 course. 
 * LifeGamer - Render server: Base on Node.js and Pixi.js to build the render engine for Game platform.
