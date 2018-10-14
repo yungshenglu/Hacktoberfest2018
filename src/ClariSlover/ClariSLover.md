@@ -18,3 +18,8 @@
 
 * Languages:  C/C++, Python,C#
 * Technologies:  Visual Studio
+
+## Hobby
+
+* Fighting Game(SF,KOF)
+* ride biker
